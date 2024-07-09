@@ -2,7 +2,7 @@
 
 # Lista de Usuarios: 
 
-![iamgen](https://i.ibb.co/2cR3qL6/Fire-Shot-Capture-058-Vite-React-TS-localhost.png)
+![iamgen](https://i.ibb.co/xX5D6Lm/rts2.png)
 
 ## Componentes
 
@@ -48,7 +48,7 @@
 
 # Contador
 
-![Contador](https://i.ibb.co/4Z1Mq5X/Contador.png)
+![Contador](https://i.ibb.co/9WQVDmJ/rts1.png)
 
 Contador que permite incrementar, decrementar y resetear un valor numérico, con mensajes condicionales según el valor del contador.
 
