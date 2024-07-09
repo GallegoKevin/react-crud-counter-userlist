@@ -1,0 +1,36 @@
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container-info {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    max-width: 450px;
+    margin: 20px auto;
+}
+
+.title {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.grid-container {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-rows: 2fr 2fr; 
+    gap: 10px; 
+}
+
+.grid-container li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

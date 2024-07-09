@@ -1,0 +1,11 @@
+.Header {
+  background: linear-gradient(135deg, #aeced6, #93a6bd); 
+}
+
+.Header h1 {
+  color: #10759c;
+  font-size: 4rem; 
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(145, 242, 255, 0.911); 
+  margin: 0px; 
+}

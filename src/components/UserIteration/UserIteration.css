@@ -1,0 +1,28 @@
+.user-iteration-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-iteration-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-list {
+
+    padding-left: 20px;
+  }
+  
+  .user-item {
+    margin-bottom: 8px;
+    font-size: 18px;
+  }
+  
+  p {
+    text-align: center;
+  }

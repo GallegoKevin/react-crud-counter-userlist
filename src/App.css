@@ -1,0 +1,22 @@
+.app-container {
+    max-width: 600px;
+    margin: 10px auto; /* Centrado verticalmente */
+    padding: 10px 30px; /* Espaciado interno aumentado */
+    background: linear-gradient(135deg, #4a148c, #880e4f); /* Degradado morado a rojo oscuro */
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Sombra más pronunciada */
+  }
+  
+  .app-title {
+    color: #fff; /* Texto blanco */
+    font-size: 32px; /* Tamaño de fuente aumentado */
+    text-align: center;
+    margin-bottom: 30px; /* Espacio inferior aumentado */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra de texto más pronunciada */
+  }
+  
+  p {
+     color: white;
+     font-size: 25px;
+  }
+ 
